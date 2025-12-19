@@ -100,4 +100,10 @@ If you find these useful, give it a star! PRs welcome.
 
 ---
 
-**Made with ❤️ and Python**
+
+## 👨‍💼 Author
+
+**Elias Hossain**  
+_Machine Learning Researcher | PhD Student at UCF | AI x Reasoning Enthusiast_
+
+[![GitHub](https://img.shields.io/badge/GitHub-EliasHossain001-blue?logo=github)](https://github.com/EliasHossain001)
